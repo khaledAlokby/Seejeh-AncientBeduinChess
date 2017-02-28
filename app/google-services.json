@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447395859596",
+    "firebase_url": "https://seija-e05a9.firebaseio.com",
+    "project_id": "seija-e05a9",
+    "storage_bucket": "seija-e05a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447395859596:android:799b0401ed1cc2de",
+        "android_client_info": {
+          "package_name": "com.khaled.seejeh_ancientbeduinchess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447395859596-9fnn8i9asf0cnl79rqbi30iqaea7paqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khaled.seejeh_ancientbeduinchess",
+            "certificate_hash": "FE5AAF839184616EEB44760304477FCD32D69747"
+          }
+        },
+        {
+          "client_id": "447395859596-egs801liuql6bo66sshodedvtmuf7hou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSd9tSYZ39PqY0p733Ft9VtrKcCOSlr-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447395859596-egs801liuql6bo66sshodedvtmuf7hou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
